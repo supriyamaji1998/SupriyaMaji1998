@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Supriya Majhi  
+# 👋 Hi, I'm Supriya Maji  
 🚀 **Software Engineer | Full Stack Developer**  
 
 💻 **Currently:** Application Engineer 1 at **CommerceIQ**  
