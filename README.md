@@ -12,4 +12,4 @@
 - Active in coding competitions & tech seminars  
 
 ## 📫 Let's Connect  
-[LinkedIn](https://www.linkedin.com/in/supriyamaji/) | [Email](majisupriya198@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/supriyamaji/) | Email: majisupriya198@gmail.com
