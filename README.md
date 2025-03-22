@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Supriya Majhi  
+🚀 **Software Engineer | Full Stack Developer**  
 
-<!--
-**supriyamaji1998/SupriyaMaji1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Currently:** Application Engineer 1 at **CommerceIQ**  
+🏢 **Previously:** Member of Technical Staff at **Vymo**  
 
-Here are some ideas to get you started:
+## 🔹 Tech Stack  
+- Node.js | MongoDB | Elasticsearch | Java | React.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me  
+- Passionate about building scalable applications & solving complex problems  
+- Active in coding competitions & tech seminars  
+
+## 📫 Let's Connect  
+[LinkedIn](https://www.linkedin.com/in/supriyamaji/) | [Email](majisupriya198@gmail.com)  
