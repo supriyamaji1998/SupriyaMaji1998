@@ -5,7 +5,7 @@
 🏢 **Previously:** Member of Technical Staff at **Vymo**  
 
 ## 🔹 Tech Stack  
-- Node.js | MongoDB | Elasticsearch | Java | React.js  
+- Node.js | Express | MongoDB | Elasticsearch | Java | React.js  | Cron Jobs | Mocha | Regex 
 
 ## 🔹 About Me  
 - Passionate about building scalable applications & solving complex problems  
